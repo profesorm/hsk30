@@ -1,6 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-# HSK Dataset
+# HSK 3.0 2026 Syllabus Dataset
 
 Structured datasets for the Chinese HSK (Hànyǔ Shuǐpíng Kǎoshì) proficiency exam.
 
