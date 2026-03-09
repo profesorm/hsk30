@@ -1,0 +1,3004 @@
+{
+  "code": 0,
+  "data": {
+    "records": [
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "个人信息",
+        "level3Content": "姓名、国籍、年龄、性别、喜好、习惯等"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "个人信息",
+        "level3Content": "身份、家庭成员、朋友、技能等"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "事件信息",
+        "level3Content": "日期、时间、地点、方位、参加者、号码等"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "物品信息",
+        "level3Content": "物品名称"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "物品信息",
+        "level3Content": "物品特征"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "环境信息",
+        "level3Content": "天气"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "环境信息",
+        "level3Content": "环境特点"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "基本礼貌行为"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "简单互动行为"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "意愿感受"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "食物饮品"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "就餐"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "问路"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行方式"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行安排"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "商品名称"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "商品价格"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "商品选购"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "生病、看病、探病等"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "休闲",
+        "level3Content": "休闲活动"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "课程信息"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习内容"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "教育层次"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "学校情况"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "课后活动"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "工作情况",
+        "level3Content": "工作信息"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "工作情况",
+        "level3Content": "工作评价"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业",
+        "level3Content": "职业种类"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "饮食文化",
+        "level3Content": "中餐"
+      },
+      {
+        "examLevelId": "HSK1",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "饮食文化",
+        "level3Content": "传统饮品"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "个人信息",
+        "level3Content": "外貌、穿着、生日等"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "个人信息",
+        "level3Content": "身份、习惯、爱好、来处等"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "事件信息",
+        "level3Content": "事件、人物、时间、方式、地址、原因、变化、状态等"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "物品信息",
+        "level3Content": "名称、颜色、差别、数量、所在、特点等"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "环境信息",
+        "level3Content": "天气"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "基本信息",
+        "level2Content": "环境信息",
+        "level3Content": "环境特征"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "基本礼貌行为"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "简单互动行为"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "意愿感受"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "食物饮品"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "饮食习惯"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "就餐"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "问路"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行方式"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行安排"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行感受"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "商品选购"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "商品描述"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "生病"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "就医"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "休闲",
+        "level3Content": "休闲活动"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "休闲",
+        "level3Content": "休闲安排"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "家庭关系"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "家庭活动"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "基本情况"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习经历"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "学校情况"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "课后活动"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "工作情况",
+        "level3Content": "工作信息"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "工作情况",
+        "level3Content": "工作经历、工作感受"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业",
+        "level3Content": "职业状况"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "传统习俗",
+        "level3Content": "节日"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "饮食文化",
+        "level3Content": "中餐印象"
+      },
+      {
+        "examLevelId": "HSK2",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "姓氏文化",
+        "level3Content": "主要姓氏、正式称谓等"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "个人情况",
+        "level3Content": "个人信息"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "个人情况",
+        "level3Content": "个人特征"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "日常事务",
+        "level3Content": "事务处理"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "日常事务",
+        "level3Content": "业务办理"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "礼貌行为"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "意愿感受"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "食物饮品"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "饮食习惯"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "就餐"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行方式"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行安排"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行经历"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "交通规则"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "商品选购"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "购物经历"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "生病"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "就医"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "探病"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "健康观念"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "休闲",
+        "level3Content": "休闲活动"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "休闲",
+        "level3Content": "活动体验"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "居住情况"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "生活习惯"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "家庭关系"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "家庭事务"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "居家生活"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "课程情况"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习活动"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习环境"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习经历"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "校园活动"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "学校情况"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "教育问题",
+        "level3Content": "家庭教育"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "日常办公",
+        "level3Content": "办公事务"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "日常办公",
+        "level3Content": "工作表现"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "日常办公",
+        "level3Content": "工作环境"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "日常办公",
+        "level3Content": "同事相处"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业与经历",
+        "level3Content": "工作经历"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业与经历",
+        "level3Content": "职业评价"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "气候"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "季节"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "动植物"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "自然风景"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "环境状况"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "环境保护"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会情况",
+        "level3Content": "现代生活"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会情况",
+        "level3Content": "城市发展"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "文艺活动"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "运动项目"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "体育比赛"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "饮食文化",
+        "level3Content": "特色饮食"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "饮食文化",
+        "level3Content": "餐具"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "风俗传统",
+        "level3Content": "传统节日与习俗"
+      },
+      {
+        "examLevelId": "HSK3",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "风俗传统",
+        "level3Content": "地区差异"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "个人情况",
+        "level3Content": "个人信息"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "个人情况",
+        "level3Content": "个人特征"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "日常事务",
+        "level3Content": "业务办理"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "日常事务",
+        "level3Content": "困难求助"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "礼貌行为"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "情感"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交往",
+        "level3Content": "感悟"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "食物饮品"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "就餐"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "做菜"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行经历"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "交通"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "商品选购"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "购物体验"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "商家活动"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "就医"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "健康生活"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "休闲",
+        "level3Content": "休闲活动"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "休闲",
+        "level3Content": "活动感受、看法等"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "居住情况"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "社区生活"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "房屋租赁与买卖"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "居家生活"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "家庭关系"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "成长过程"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "生活习惯"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "家庭事务"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "课程情况"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "教学情况"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习经历"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习心得"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "校园活动"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "学校情况"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "教育问题",
+        "level3Content": "家庭教育"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "教育问题",
+        "level3Content": "社会教育"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "日常办公",
+        "level3Content": "办公事务"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "日常办公",
+        "level3Content": "工作表现"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "日常办公",
+        "level3Content": "职场交往"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业与经历",
+        "level3Content": "工作经历"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业与经历",
+        "level3Content": "职业现状、职业评价"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "单位情况",
+        "level3Content": "人事管理"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "单位情况",
+        "level3Content": "工作环境与待遇"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "地理"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "气候"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "动植物"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "自然景观"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "自然现象"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "环境状况"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "环境保护"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科技发展",
+        "level3Content": "新技术运用"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科学知识",
+        "level3Content": "科普知识"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科学知识",
+        "level3Content": "科研成果"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "概况",
+        "level3Content": "首都、主要省市"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "概况",
+        "level3Content": "少数民族"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "流行产品"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "新商业形态"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "经济状况"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "生活观念"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "网络生活"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "基础设施"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "流行事物"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "文艺形式"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "文艺活动"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "创作者及其作品"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "运动项目"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "体育比赛"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "体育名人、体育故事"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "中外交流",
+        "level3Content": "友好往来"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "语言文字",
+        "level3Content": "俗语、名言等"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "饮食文化",
+        "level3Content": "传统饮食观念"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "饮食文化",
+        "level3Content": "各地饮食、传统店铺、品牌等"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "传统节日与习俗"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "国粹"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "各地传统"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "人际交往礼仪"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "人文景观",
+        "level3Content": "名胜古迹等"
+      },
+      {
+        "examLevelId": "HSK4",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "历史",
+        "level3Content": "历史人物、历史事件"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "日常事务",
+        "level3Content": "业务办理"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "日常事务",
+        "level3Content": "困难求助"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "就餐"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "餐饮体验"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "交通运输"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行体验"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "商品选购"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "购物",
+        "level3Content": "消费活动"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "就医"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "心理健康"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "健康生活"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "休闲",
+        "level3Content": "休闲活动"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "休闲",
+        "level3Content": "活动感受、生活随感、人生感悟等"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "居住情况"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "社区管理"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "社区生活"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "居家生活"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "家庭活动"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "家庭生活",
+        "level3Content": "家庭问题"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "课程情况"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "教学情况"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习经历"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习心得"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "校园活动"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "学校情况"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "教育问题",
+        "level3Content": "家庭教育"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "教育问题",
+        "level3Content": "学校教育、社会教育、职业教育等"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业与经历",
+        "level3Content": "工作内容"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业与经历",
+        "level3Content": "工作经历"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "经营与管理",
+        "level3Content": "团队合作"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "经营与管理",
+        "level3Content": "人员管理"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "经营与管理",
+        "level3Content": "企业发展"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "自然资源"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "地形地貌"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "自然现象、自然规律"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "动植物"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "生态平衡"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "城市与乡村"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "环境保护"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科技发展",
+        "level3Content": "产品介绍与应用"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科学知识",
+        "level3Content": "科普知识"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科学知识",
+        "level3Content": "科研成果"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "概况",
+        "level3Content": "行政区划"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "概况",
+        "level3Content": "人口情况"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "概况",
+        "level3Content": "时代特征"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "进出口贸易"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "商业活动"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "经济发展"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "民生发展"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "新兴事物"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "社会观念"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "基础设施"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "文艺形式"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "文艺常识"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "创作者及其作品"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "文艺活动"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "运动项目"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "体育赛事"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "体育名人、体育故事"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "中外交流",
+        "level3Content": "交往故事、友好访问、国际合作等"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "语言文字",
+        "level3Content": "俗语、成语、名言名句等"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "语言文字",
+        "level3Content": "语言现象"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "地方饮食及差异等"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "传统节日与习俗"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "民间传说"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "古代生活"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "人文景观",
+        "level3Content": "名胜古迹、传统民居、建筑等"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "传统思想与艺术",
+        "level3Content": "哲学思想"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "传统思想与艺术",
+        "level3Content": "传统艺术"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "历史",
+        "level3Content": "历史人物、历史事件"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "古代科技",
+        "level3Content": "古代科技成就"
+      },
+      {
+        "examLevelId": "HSK5",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "古代科技",
+        "level3Content": "古人科学观念、古代科学家事迹"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "日常事务",
+        "level3Content": "业务办理"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "日常事务",
+        "level3Content": "困难求助"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "餐饮体验"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "饮食",
+        "level3Content": "食品安全"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行体验"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "交通出行",
+        "level3Content": "出行攻略"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "就医"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "医疗健康",
+        "level3Content": "健康生活"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "居住情况"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "社区服务"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "社区管理"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "日常生活",
+        "level2Content": "社区",
+        "level3Content": "居民生活"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "课程情况"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "教学情况"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "学习情况",
+        "level3Content": "学习者"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "校园活动"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "校园生活",
+        "level3Content": "学校情况"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "教育情况",
+        "level2Content": "教育问题",
+        "level3Content": "教育事件、教育理念、教育热点问题"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业与经历",
+        "level3Content": "工作内容"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "职业与经历",
+        "level3Content": "职场定位"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "经营与管理",
+        "level3Content": "人员管理"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "职场生活",
+        "level2Content": "经营与管理",
+        "level3Content": "企业发展"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "地理分区"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "地形地貌"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "自然现象"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "动植物"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "自然资源"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "自然",
+        "level3Content": "自然规律"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "灾害"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "能源开发"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "环境保护"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "环境",
+        "level3Content": "基础设施"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科技发展",
+        "level3Content": "生活类科技产品"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科技发展",
+        "level3Content": "信息科技产品"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科学知识",
+        "level3Content": "科普知识"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科学知识",
+        "level3Content": "科研成果"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "科学知识",
+        "level3Content": "科普工作"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "商贸活动"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "投资理财"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "财务与消费"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "经济现象",
+        "level3Content": "经济发展"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "民生发展（社会福利、公共卫生事件、住房保障、养老、婚嫁、生育等)"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "新兴事物"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "潮流风气"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "公益活动"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "社会现象",
+        "level3Content": "新闻热点"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "文艺形式"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "文艺常识"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "创作者及其作品"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "文艺",
+        "level3Content": "文艺活动"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "运动项目"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "体育赛事"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "体育",
+        "level3Content": "体育名人、体育故事等"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "中外交流",
+        "level3Content": "国际活动"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "当代社会",
+        "level2Content": "中外交流",
+        "level3Content": "友好交流事件"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "语言文字",
+        "level3Content": "古诗词"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "语言文字",
+        "level3Content": "成语、俗语、方言等"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "传统节日与习俗"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "民间传说"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "民俗传统",
+        "level3Content": "古代生活"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "人文景观",
+        "level3Content": "名胜古迹、传统民居、建筑等"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "传统思想与艺术",
+        "level3Content": "哲学思想"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "传统思想与艺术",
+        "level3Content": "传统艺术"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "传统思想与艺术",
+        "level3Content": "传统审美意象"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "历史",
+        "level3Content": "历史人物、器物与事件"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "历史",
+        "level3Content": "朝代概况"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "古代科技",
+        "level3Content": "古代科技成就"
+      },
+      {
+        "examLevelId": "HSK6",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "古代科技",
+        "level3Content": "古人科学观念、古代科学家事迹"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "人际交往",
+        "level3Content": "人际关系"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "人际交往",
+        "level3Content": "中国人际交往中的品行观念和评价"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "形象服饰",
+        "level3Content": "不同文化和场合符合礼仪的形象"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "形象服饰",
+        "level3Content": "服饰搭配与风格"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "形象服饰",
+        "level3Content": "中式服装特点与审美"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "饮食餐饮",
+        "level3Content": "具有代表性的中国饮食观念、烹饪方法"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "饮食餐饮",
+        "level3Content": "多样化的地域饮食特色"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "饮食餐饮",
+        "level3Content": "各种餐饮形态的特点和代表品种"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "饮食餐饮",
+        "level3Content": "中国餐桌文化及含义"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "建筑与社区",
+        "level3Content": "建筑与社区文化"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "建筑与社区",
+        "level3Content": "社区空间、设施的规划与建设"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "建筑与社区",
+        "level3Content": "建筑功能设计与建设"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "建筑与社区",
+        "level3Content": "房屋买卖与租赁"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "休闲娱乐",
+        "level3Content": "旅游度假"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "休闲娱乐",
+        "level3Content": "运动健身"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "休闲娱乐",
+        "level3Content": "文化娱乐"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "休闲娱乐",
+        "level3Content": "购物休闲"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "学业职业",
+        "level3Content": "专业学习"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "学业职业",
+        "level3Content": "学业发展与生涯规划"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "个体与社会",
+        "level2Content": "学业职业",
+        "level3Content": "职业发展"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "人口与发展",
+        "level3Content": "人口流动与管理"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "人口与发展",
+        "level3Content": "老龄化"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "人口与发展",
+        "level3Content": "人口发展"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "教育发展",
+        "level3Content": "教育政策"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "教育发展",
+        "level3Content": "高等教育体制"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "教育发展",
+        "level3Content": "教育高质量发展"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "媒介与传播",
+        "level3Content": "正式表达与非正式表达"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "媒介与传播",
+        "level3Content": "媒介与信息传播"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "媒介与传播",
+        "level3Content": "数字媒介素养"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "媒介与传播",
+        "level3Content": "知识共享与版权保护"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "健康与医疗",
+        "level3Content": "疾病诊疗与公共卫生"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "健康与医疗",
+        "level3Content": "心理健康与心理治疗"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "健康与医疗",
+        "level3Content": "医学技术创新与伦理"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "健康与医疗",
+        "level3Content": "中医和西医"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "交通与运输",
+        "level3Content": "交通运输系统建设和影响"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "交通与运输",
+        "level3Content": "各种运输方式的特点和发展趋势"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "交通与运输",
+        "level3Content": "城市交通系统规划与发展"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "经济与生产",
+        "level3Content": "宏观经济"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "经济与生产",
+        "level3Content": "产业发展"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "经济与生产",
+        "level3Content": "农、林、牧、渔业生产"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "经济与生产",
+        "level3Content": "工业生产"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "经济与生产",
+        "level3Content": "金融服务贸易"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "经济与生产",
+        "level3Content": "企业运营"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "法制与治安",
+        "level3Content": "法制建设"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "法制与治安",
+        "level3Content": "治安管理"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "社会公共管理",
+        "level3Content": "社会保障"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "社会公共管理",
+        "level3Content": "劳动就业"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "社会公共管理",
+        "level3Content": "公共基础设施建设"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "社会公共管理",
+        "level3Content": "社会公共组织"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "国家与社会",
+        "level2Content": "社会公共管理",
+        "level3Content": "社会基层治理"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "文学艺术",
+        "level3Content": "中国传统文化意象及在不同文学艺术形式中的表现"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "文学艺术",
+        "level3Content": "不同文学形式的特点和作品欣赏"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "文学艺术",
+        "level3Content": "不同艺术形式的特点和作品欣赏"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "历史",
+        "level3Content": "中国历史发展基本脉络"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "历史",
+        "level3Content": "中国重大历史事件和历史人物"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "哲学思想",
+        "level3Content": "儒家主要思想、代表人物和影响"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "哲学思想",
+        "level3Content": "道家主要思想、代表人物和影响"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "习俗礼俗",
+        "level3Content": "农历岁时节令习俗"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "习俗礼俗",
+        "level3Content": "节庆习俗"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "习俗礼俗",
+        "level3Content": "婚嫁习俗"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "习俗礼俗",
+        "level3Content": "生日习俗"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "习俗礼俗",
+        "level3Content": "丧葬习俗"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "文化遗产",
+        "level3Content": "中国重要的人类物质文化遗产及影响"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "文化遗产",
+        "level3Content": "中国重要的人类非物质文化遗产及影响"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "文化与传统",
+        "level2Content": "文化遗产",
+        "level3Content": "文化遗产保护、传承与发扬"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "宇宙环境",
+        "level3Content": "宇宙的起源与演化"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "宇宙环境",
+        "level3Content": "宇宙的结构与物质"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "宇宙环境",
+        "level3Content": "人类的太空探索与发现"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "地质环境",
+        "level3Content": "地球构造"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "地质环境",
+        "level3Content": "地形、地势、地貌特点"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "地质环境",
+        "level3Content": "地形、地势对经济、人文活动的影响"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "地质环境",
+        "level3Content": "矿产资源"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "大气环境",
+        "level3Content": "不同气候类型"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "大气环境",
+        "level3Content": "气候变化"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "大气环境",
+        "level3Content": "大气监测"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "水环境",
+        "level3Content": "水资源分布和利用"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "水环境",
+        "level3Content": "水生态保护与可持续发展"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "土地环境",
+        "level3Content": "土地资源分布和利用"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "土地环境",
+        "level3Content": "土地资源保护与可持续发展"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "生物环境",
+        "level3Content": "生物资源分布特点和利用"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "自然与环境",
+        "level2Content": "生物环境",
+        "level3Content": "生物资源保护与可持续发展"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "信息科学技术",
+        "level3Content": "计算机科学"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "信息科学技术",
+        "level3Content": "网络通信技术"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "信息科学技术",
+        "level3Content": "大数据与数据分析"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "信息科学技术",
+        "level3Content": "人工智能与机器学习"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "航空航天科学技术",
+        "level3Content": "航天航空科技"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "航空航天科学技术",
+        "level3Content": "航空航天技术应用"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "生物科学技术",
+        "level3Content": "生物科技与农业"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "生物科学技术",
+        "level3Content": "生物科技与环保"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "生物科学技术",
+        "level3Content": "生物科技与医疗"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "其他新兴科学技术",
+        "level3Content": "先进材料与制造"
+      },
+      {
+        "examLevelId": "HSK7-9",
+        "children": [],
+        "level1Content": "科学技术",
+        "level2Content": "其他新兴科学技术",
+        "level3Content": "可再生能源技术"
+      }
+    ],
+    "total": 427,
+    "size": 430,
+    "current": 1,
+    "orders": [],
+    "optimizeCountSql": true,
+    "searchCount": true,
+    "pages": 1
+  },
+  "ok": true
+}

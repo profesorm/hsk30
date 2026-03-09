@@ -10,23 +10,23 @@ This repository contains machine-readable datasets of HSK vocabulary, characters
 
 | File | Description |
 |-----|-------------|
-| data/hsk_hanzi_raw.csv | HSK character list |
+| data/hsk_hanzi.csv | HSK character list |
 | data/hsk_hanzi_raw.json | HSK character list |
 | data/hsk_hanzi_pretty.json | HSK character list |
 | data/hsk_hanzi_compact.json | HSK character list |
-| data/hsk_vocabulary_raw.csv | HSK vocabulary list |
+| data/hsk_vocabulary.csv | HSK vocabulary list |
 | data/hsk_vocabulary_raw.json | HSK vocabulary list |
 | data/hsk_vocabulary_pretty.json | HSK vocabulary list |
 | data/hsk_vocabulary_compact.json | HSK vocabulary list |
-| data/hsk_grammar_raw.csv | HSK grammar list |
+| data/hsk_grammar.csv | HSK grammar list |
 | data/hsk_grammar_raw.json | HSK grammar list |
 | data/hsk_grammar_pretty.json | HSK grammar list |
 | data/hsk_grammar_compact.json | HSK grammar list |
-| data/hsk_topic_raw.csv | HSK topic list |
+| data/hsk_topic.csv | HSK topic list |
 | data/hsk_topic_raw.json | HSK topic list |
 | data/hsk_topic_pretty.json | HSK topic list |
 | data/hsk_topic_compact.json | HSK topic list |
-| data/hsk_task_raw.csv | HSK task list |
+| data/hsk_task.csv | HSK task list |
 | data/hsk_task_raw.json | HSK task list |
 | data/hsk_task_pretty.json | HSK task list |
 | data/hsk_task_compact.json | HSK task list |
