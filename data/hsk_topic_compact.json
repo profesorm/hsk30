@@ -429,6 +429,14 @@
       {"examLevelId": "HSK7-9", "children": [], "level1Content": "科学技术", "level2Content": "生物科学技术", "level3Content": "生物科技与医疗"},
       {"examLevelId": "HSK7-9", "children": [], "level1Content": "科学技术", "level2Content": "其他新兴科学技术", "level3Content": "先进材料与制造"},
       {"examLevelId": "HSK7-9", "children": [], "level1Content": "科学技术", "level2Content": "其他新兴科学技术", "level3Content": "可再生能源技术"}
-    ]
-  }
+    ],
+    "total": 427,
+    "size": 430,
+    "current": 1,
+    "orders": [],
+    "optimizeCountSql": true,
+    "searchCount": true,
+    "pages": 1
+  },
+  "ok": true
 }

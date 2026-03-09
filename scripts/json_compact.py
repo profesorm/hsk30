@@ -1,30 +1,28 @@
 import json
 
-# Input and output file
 input_file = "hsk_hanzi_raw.json"
 output_file = "hsk_hanzi_compact.json"
 
-# Read raw JSON
+# Read the raw JSON
 with open(input_file, "r", encoding="utf-8") as f:
     data = json.load(f)
 
-# Rebuild the 'records' array as one-line objects
+# Prepare one-line JSON strings for each record
 records = data["data"]["records"]
-data["data"]["records"] = [json.loads(json.dumps(rec, ensure_ascii=False)) for rec in records]
+one_line_records = [json.dumps(rec, ensure_ascii=False) for rec in records]
 
-# Save JSON with standard indent, but one-line records
+# Replace 'records' temporarily with string placeholders
+data["data"]["records"] = one_line_records
+
+# Dump the whole JSON with indentation
+json_text = json.dumps(data, ensure_ascii=False, indent=2)
+
+# Remove quotes around each record to restore proper JSON objects
+for rec in one_line_records:
+    json_text = json_text.replace(json.dumps(rec, ensure_ascii=False), rec)
+
+# Save the compact file
 with open(output_file, "w", encoding="utf-8") as f:
-    f.write('{\n')
-    f.write(f'  "code": {data["code"]},\n')
-    f.write('  "data": {\n')
-    f.write('    "records": [\n')
-    for i, rec in enumerate(data["data"]["records"]):
-        line = json.dumps(rec, ensure_ascii=False)
-        if i < len(data["data"]["records"]) - 1:
-            line += ','
-        f.write(f'      {line}\n')
-    f.write('    ]\n')
-    f.write('  }\n')
-    f.write('}\n')
+    f.write(json_text)
 
-print(f"Saved one-line objects JSON: {output_file}")
+print(f"Saved compact one-line records JSON: {output_file}")

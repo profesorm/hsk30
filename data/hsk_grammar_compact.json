@@ -595,6 +595,14 @@
       {"examLevelId": "HSK7-9", "content": "话题转换", "grammarType": "语段（句群）", "categoryType": "", "grammarDetail": "", "cases": "我在创作这幅作品时，是希望能够依靠背影去反映出人物的情绪和精神状态。至于这件作品的展出位置，在规划展厅布局时，就做了特别的安排。\r\n我刻录光盘的速度都是软件默认的，如果自己去调高速度的话光盘容易报废。（至于）价钱嘛，买的比较多的话就一元一张盘。"},
       {"examLevelId": "HSK7-9", "content": "承前省略", "grammarType": "语段（句群）", "categoryType": "", "grammarDetail": "", "cases": "我奶奶虽然没有文化，【】做事却十分干脆，【】听了这话便找出存折，【】抱着我便径直走出家门去银行取钱。\r\n中国政府秉承“以人为本”的精神，【】根据被援助国要求和国际社会的呼吁，【】及时提供了救灾物资、救援队和医疗队，【】尽力提供现汇资金援助，【】积极参与了国际合作的重大紧急救援任务。"},
       {"examLevelId": "HSK7-9", "content": "蒙后省略", "grammarType": "语段（句群）", "categoryType": "", "grammarDetail": "", "cases": "虽然【】没有得到为国家献身的机会，但也一直做好了准备；如果到了那一天，汪昌绪绝对丝毫不会犹豫。\r\n无论【】平时工作多忙，【】回家多晚，王和平都会非常认真地检查孩子的作业。"}
-    ]
-  }
+    ],
+    "total": 593,
+    "size": 600,
+    "current": 1,
+    "orders": [],
+    "optimizeCountSql": true,
+    "searchCount": true,
+    "pages": 1
+  },
+  "ok": true
 }

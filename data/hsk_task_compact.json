@@ -680,6 +680,14 @@
       {"examLevelId": "HSK7-9", "children": [], "level1Content": "参与学生社团活动和社会实践活动", "level2Content": "能听懂、读懂有关学生社团、社会实践等方面的复杂信息。如：看懂学校关于申请组建学生社团的相关条件和申请程序的规定。"},
       {"examLevelId": "HSK7-9", "children": [], "level1Content": "参与学生社团活动和社会实践活动", "level2Content": "能根据给定主题或材料，以口头或书面形式详细、清楚、流畅地报告学生社团活动、社会实践计划、实践过程和成果，在相关场合做正式发言或演讲等。如：以学生代表团负责人身份在正式访问中国某大学或其他机构时发表流畅、得体、有深度的演讲。"},
       {"examLevelId": "HSK7-9", "children": [], "level1Content": "参与学生社团活动和社会实践活动", "level2Content": "能在正式场合担任口译，能将学生社团活动及社会实践等相关资料准确、流畅地译成中文。"}
-    ]
-  }
+    ],
+    "total": 678,
+    "size": 680,
+    "current": 1,
+    "orders": [],
+    "optimizeCountSql": true,
+    "searchCount": true,
+    "pages": 1
+  },
+  "ok": true
 }
